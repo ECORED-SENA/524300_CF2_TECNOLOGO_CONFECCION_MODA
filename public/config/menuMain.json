@@ -9,56 +9,56 @@
     "id": 1,
     "icon": "fa fa-file-text",
     "slug": "teoria",
-    "title": "1. Teoría del color.",
+    "title": "1. Teoría del color",
     "breadcrumb": ["Inicio","teoria"],
     "path": "pages/1-tema.html",
     "submenu": [
       {
         "icon": "fa fa-file-text",
         "slug": "teoria",
-        "title": "1.1 Fundamentación del color: concepto, características, factores que determinan el color, percepción del color, objetivos.",
+        "title": "1.1 Fundamentación del color: concepto, características, factores que determinan el color, percepción del color, objetivos",
         "anchor": "fundamentacion"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "teoria",
-        "title": "1.2 Clasificación, definición y mezcla de los colores: colores primarios, secundarios, terciarios, intermedios y complementarios.",
+        "title": "1.2 Clasificación, definición y mezcla de los colores: colores primarios, secundarios, terciarios, intermedios y complementarios",
         "anchor": "clasificacion"
       },
       {
         "icon": "fa fa-play-circle",
         "slug": "teoria",
-        "title": "1.3 Círculo cromático.",
+        "title": "1.3 Círculo cromático",
         "anchor": "circulo"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "teoria",
-        "title": "1.4 Escalas de color: armonías de color, contrastes, definición y obtención de volumen.",
+        "title": "1.4 Escalas de color: armonías de color, contrastes, definición y obtención de volumen",
         "anchor": "escalas"
       },
       {
         "icon": "fa fa-play-circle",
         "slug": "teoria",
-        "title": "1.5 El color y sus pigmentos: técnicas del color y sus aplicaciones.",
+        "title": "1.5 El color y sus pigmentos: técnicas del color y sus aplicaciones",
         "anchor": "color"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "teoria",
-        "title": "1.6 Psicología y simbología del color: definición y características.",
+        "title": "1.6 Psicología y simbología del color: definición y características",
         "anchor": "psicologia"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "teoria",
-        "title": "1.7 Significado del color en la moda: definición, características y funcionalidad en prendas de vestir.",
+        "title": "1.7 Significado del color en la moda: definición, características y funcionalidad en prendas de vestir",
         "anchor": "significado"
       },
       {
         "icon": "fa fa-play-circle",
         "slug": "teoria",
-        "title": "1.8 Carta de color: base, acentos, neutros, obtención del color de acuerdo al concepto y la tendencia.",
+        "title": "1.8 Carta de color: base, acentos, neutros, obtención del color de acuerdo al concepto y la tendencia",
         "anchor": "carta"
       }
     ]
@@ -67,44 +67,44 @@
     "id": 2,
     "icon": "fa fa-file-text",
     "slug": "analisis",
-    "title": "2. Análisis Funcional.",
+    "title": "2. Análisis Funcional",
     "breadcrumb": ["Inicio","analisis"],
     "path": "pages/2-tema.html",
     "submenu": [
       {
         "icon": "fa fa-play-circle",
         "slug": "analisis",
-        "title": "2.1 Conceptos y definiciones de la función del vestuario con relación al cuerpo.",
+        "title": "2.1 Conceptos y definiciones de la función del vestuario con relación al cuerpo",
         "anchor": "conceptos"
       },
       {
         "icon": "fa fa-play-circle",
         "slug": "analisis",
-        "title": "2.2 El vestuario y la funcionalidad.",
+        "title": "2.2 El vestuario y la funcionalidad",
         "anchor": "vestuario"
       },
       {
         "icon": "fa fa-play-circle",
         "slug": "analisis",
-        "title": "2.3 Funcionalidad y estética del vestuario.",
+        "title": "2.3 Funcionalidad y estética del vestuario",
         "anchor": "funcionalidad"
       },
       {
         "icon": "fa fa-play-circle",
         "slug": "analisis",
-        "title": "2.4 Funcionalidad y comodidad: ergonomía del vestuario.",
+        "title": "2.4 Funcionalidad y comodidad: ergonomía del vestuario",
         "anchor": "funcionalidad1"
       },
       {
         "icon": "fa fa-play-circle",
         "slug": "analisis",
-        "title": "2.5 Funcionalidad y modelación del cuerpo.",
+        "title": "2.5 Funcionalidad y modelación del cuerpo",
         "anchor": "funcionalidad2"
       },
       {
         "icon": "fa fa-play-circle",
         "slug": "analisis",
-        "title": "2.6 Funcionalidad y producción técnica de la prenda.",
+        "title": "2.6 Funcionalidad y producción técnica de la prenda",
         "anchor": "funcionalidad3"
       }
     ]
